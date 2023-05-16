@@ -1,0 +1,11 @@
+NO ./img/bluestone.xpm
+SO ./img/redbrick.xpm
+WE ./img/greystone.xpm
+EA ./img/colorstone.xpm
+
+C 120,208,227
+F 188,132,92
+
+        1111111111111111111111111
+        1000000000110000W000000001
+111111111111111111111111111111111
